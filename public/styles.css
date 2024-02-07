@@ -1,0 +1,40 @@
+/* Ваш файл стилей (например, styles.css) */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.login-heading {
+  text-align: center;
+}
+
+.login-form {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.login-label {
+  display: block;
+  margin-top: 10px;
+}
+
+.login-input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.login-button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.login-button:hover {
+  background-color: #45a049;
+}
